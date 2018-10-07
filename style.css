@@ -24,7 +24,7 @@
     padding: 0;
   }
   #flag-container {
-    height: 20em;
+    height: 252px;
     background-color: #fff;
     border: 1px solid #333;
   }
@@ -54,6 +54,6 @@
   @media (max-width: 768px) {
     body { font-size: 12px; }
     #main-container { width: 342px; }  
-    #flag-container { height: 20em; }  
+    #flag-container { height: 172px; }  
     #info-container select { font-size: 12px; font-weight: 600; }
   }
